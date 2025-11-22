@@ -1,0 +1,7 @@
+Simulated commit history (create these commits locally and on GitHub):
+
+1) Initial commit: add calculator.py, README.md, .gitignore
+2) Add main loop and input handling in calculator.py
+3) Add assets (screenshots) and update README
+4) Add docs/documentation.md
+5) Add CONTRIBUTING.md and LICENSE
