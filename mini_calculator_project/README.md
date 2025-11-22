@@ -104,4 +104,4 @@ See `docs/documentation.md` for project overview, development process, and futur
 
 ---
 
-**Academic integrity note:** Your course's assignment instructions state that *use of ChatGPT and similar tools is strictly prohibited.* Do **not** submit this file verbatim as your own work if your instructor forbids external assistance. Use this repository as a starting template — modify and personalize it before submission.
+
