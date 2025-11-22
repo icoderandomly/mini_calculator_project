@@ -36,7 +36,7 @@ assets/
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/icoderandomly/mini_calculator_project/tree/63e3641c8eddedeab46fe4a8a2eff2f590b383cc/mini_calculator_project>
 cd mini_calculator_project
 ```
 
